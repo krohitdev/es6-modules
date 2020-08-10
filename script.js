@@ -1,3 +1,4 @@
+
 // default export
 export default function greet() {
 	var a = 10;
@@ -8,3 +9,5 @@ export default function greet() {
 export function greetWithName(name) {
 	return `Hi Good Morning ${name}`;		
 }
+
+export var a = 10;
